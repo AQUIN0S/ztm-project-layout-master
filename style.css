@@ -62,6 +62,9 @@ footer {
     text-align: center;
 }
 
+/********************************************
+ *  Background Colors                       *
+ ********************************************/
 
 .bg-blue {
     background: linear-gradient(blue, midnightblue);
@@ -87,6 +90,9 @@ footer {
   background: linear-gradient(#2DC7FF, #0081AF);
 }
 
+/********************************************
+ *  Other Classes                           *
+ ********************************************/
 
 .flex-right {
     margin-left: auto;
